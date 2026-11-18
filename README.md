@@ -118,7 +118,7 @@ All three models produce the same spans and the same redacted text for this samp
 
 ## Integrations
 
-**PLACEHOLDER (to be replaced): Presidio integration in `integrations/presidio/`.**
+- **Microsoft Presidio:** [`integrations/presidio/`](integrations/presidio/) registers GolemPII as the Hebrew recognizer, maps the 15 labels to Presidio entity names, and works with the standard `analyze` and `anonymize` calls.
 
 ## Labels
 
