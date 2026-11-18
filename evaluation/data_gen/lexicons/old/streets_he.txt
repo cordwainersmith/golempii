@@ -1,0 +1,134 @@
+הרצל,Herzl
+רוטשילד,Rothschild
+דיזנגוף,Dizengoff
+אלנבי,Allenby
+בן יהודה,Ben Yehuda
+בן גוריון,Ben Gurion
+ויצמן,Weizmann
+ז'בוטינסקי,Jabotinsky
+בגין,Begin
+אבן גבירול,Ibn Gabirol
+המלך ג'ורג',King George
+יפו,Jaffa
+הנביאים,HaNevi'im
+קפלן,Kaplan
+שדרות ירושלים,Jerusalem Blvd
+העצמאות,HaAtzmaut
+הגפן,HaGefen
+הזית,HaZayit
+הרימון,HaRimon
+התמר,HaTamar
+האלון,HaAlon
+הברוש,HaBrosh
+הדקל,HaDekel
+האורן,HaOren
+הנרקיס,HaNarkis
+הרקפת,HaRakefet
+הכלנית,HaCalanit
+השקד,HaShaked
+הדגל,HaDegel
+הפלמ"ח,HaPalmach
+הגלעד,HaGilad
+הגליל,HaGalil
+הגולן,HaGolan
+הנגב,HaNegev
+הכרמל,HaCarmel
+השרון,HaSharon
+העמק,HaEmek
+המייסדים,HaMeyasdim
+המעפילים,HaMaapilim
+הלוחמים,HaLohamim
+הנשיא,HaNasi
+הרב קוק,HaRav Kook
+הרב אשלג,HaRav Ashlag
+רבי עקיבא,Rabbi Akiva
+רש"י,Rashi
+הרמב"ם,HaRambam
+אחד העם,Ahad Ha'am
+ביאליק,Bialik
+טשרניחובסקי,Tchernichovsky
+שלום עליכם,Sholem Aleichem
+סוקולוב,Sokolov
+אוסישקין,Ussishkin
+בלפור,Balfour
+גורדון,Gordon
+פינסקר,Pinsker
+נורדאו,Nordau
+אינשטיין,Einstein
+קרן היסוד,Keren HaYesod
+קרן קיימת,Keren Kayemet
+יהודה הלוי,Yehuda HaLevi
+שלמה המלך,Shlomo HaMelech
+דוד המלך,David HaMelech
+אלקלעי,Alkalai
+חיים לבנון,Haim Levanon
+חיים ויצמן,Haim Weizmann
+לוי אשכול,Levi Eshkol
+גולדה מאיר,Golda Meir
+יצחק רבין,Yitzhak Rabin
+שמעון פרס,Shimon Peres
+משה דיין,Moshe Dayan
+אריאל שרון,Ariel Sharon
+מנחם בגין,Menachem Begin
+דרך חברון,Derech Hevron
+דרך בגין,Derech Begin
+דרך השלום,Derech HaShalom
+דרך יפו,Derech Yafo
+דרך הים,Derech HaYam
+הפרחים,HaPerachim
+הנחל,HaNahal
+הגן,HaGan
+השלום,HaShalom
+התקווה,HaTikva
+החרושת,HaHarosha
+התעשייה,HaTaasiya
+המלאכה,HaMelacha
+הבנים,HaBanim
+הבונים,HaBonim
+הפועלים,HaPoalim
+האגוז,HaEgoz
+הגאולה,HaGeula
+הציונות,HaTzionut
+העלייה,HaAliya
+המושבה,HaMoshava
+הבושם,HaBosem
+המגדל,HaMigdal
+הים,HaYam
+הנמל,HaNamal
+השחר,HaShachar
+האשל,HaEshel
+הצבר,HaTzabar
+הוורד,HaVered
+הסיגלית,HaSigalit
+הדרור,HaDror
+הקשת,HaKeshet
+הבריגדה,HaBrigada
+סמטת הכרמל,Sderot Carmel
+שדרות רוטשילד,Rothschild Blvd
+שדרות בן גוריון,Ben Gurion Blvd
+שדרות הנשיאים,HaNesiim Blvd
+שדרות ההסתדרות,HaHistadrut Blvd
+שדרות שאול המלך,Shaul HaMelech Blvd
+שדרות יצחק רבין,Yitzhak Rabin Blvd
+ארלוזורוב,Arlozorov
+דרך מנחם בגין,Derech Menachem Begin
+יגאל אלון,Yigal Alon
+לה גרדיה,La Guardia
+קלישר,Kalisher
+נחלת בנימין,Nahalat Binyamin
+שינקין,Sheinkin
+אלפסי,Alfasi
+בלפור,Balfour
+מוהליבר,Mohilever
+ארלוזרוב,Arlozorov
+אנילביץ',Anielewicz
+סירקין,Sirkin
+פרץ,Peretz
+חזון איש,Hazon Ish
+ירמיהו,Yirmiyahu
+שמאי,Shamai
+הלל,Hillel
+עמק איילון,Emek Ayalon
+תלפיות,Talpiot
+הפסגה,HaPisga
+הצפירה,HaTzefira

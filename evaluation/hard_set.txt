@@ -1,0 +1,19 @@
+# Hand-written Hebrew hard cases. One example per line.
+# Mark each PII span as [[category|text]], category one of: person, address, phone, email, account.
+# Lines without a marker are negatives: anything predicted there is a false positive.
+# Starter set, focused on names that are also ordinary words. Add real failure cases here.
+דיברתי עם [[person|שחר]] לפני עלות השחר, והיא ביקשה שנחזור אליה ל-[[phone|052-6814423]].
+[[person|אור]] הדליק את האור בחדר ושלח מייל ל-[[email|noa.levi@example.co.il]].
+[[person|נועה]] עוד לא נעה מהמקום, היא גרה ב[[address|רחוב הרצל 14, רמת גן]].
+הלקוח [[person|חיים שלום]] מבקש לעדכן את מספר תעודת הזהות שלו: [[account|203948571]].
+טל ירד הבוקר על הדשא, ו[[person|טל ברק]] איחר לפגישה.
+[[person|גיל]] שאל מה הגיל המינימלי לפתיחת חשבון.
+היי, זה [[person|דור]] מהדור הצעיר של הצוות, הנייד שלי [[phone|0547812345]].
+תעביר בבקשה 500 ש"ח לחשבון [[account|12-345-678901]] על שם [[person|יעל מזרחי]].
+[[person|אביב]] נולד באביב, ו[[person|סתיו]] אחותו נולדה בסתיו.
+שלחתי ל[[person|שירה]] את השירה שכתבתי, לכתובת [[address|דרך השלום 7, תל אביב]].
+מספר הכרטיס שלי הוא [[account|4580-1234-5678-9012]], תוקף 08/27.
+Hi, this is [[person|רון]] from support, אפשר להשיג אותי ב-[[email|ron@example.com]] או בטלפון [[phone|03-5551234]].
+הפגישה נדחתה ליום שלישי בגלל עומס בצוות הפיתוח.
+ההזמנה מספר 48213 תגיע בתוך שלושה ימי עסקים.
+אין שלום בלי ביטחון, כך נכתב במאמר המערכת של הבוקר.

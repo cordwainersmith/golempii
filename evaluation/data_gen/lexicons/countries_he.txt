@@ -1,0 +1,60 @@
+ארצות הברית,United States
+ארה"ב,USA
+קנדה,Canada
+מקסיקו,Mexico
+ברזיל,Brazil
+ארגנטינה,Argentina
+קולומביה,Colombia
+צ'ילה,Chile
+בריטניה,United Kingdom
+אנגליה,England
+אירלנד,Ireland
+צרפת,France
+גרמניה,Germany
+איטליה,Italy
+ספרד,Spain
+פורטוגל,Portugal
+הולנד,Netherlands
+בלגיה,Belgium
+שווייץ,Switzerland
+אוסטריה,Austria
+דנמרק,Denmark
+שוודיה,Sweden
+נורווגיה,Norway
+פינלנד,Finland
+איסלנד,Iceland
+פולין,Poland
+צ'כיה,Czech Republic
+הונגריה,Hungary
+רומניה,Romania
+בולגריה,Bulgaria
+יוון,Greece
+קפריסין,Cyprus
+מלטה,Malta
+קרואטיה,Croatia
+סרביה,Serbia
+טורקיה,Turkey
+גאורגיה,Georgia
+ארמניה,Armenia
+אזרבייג'ן,Azerbaijan
+אוקראינה,Ukraine
+רוסיה,Russia
+מולדובה,Moldova
+ליטא,Lithuania
+לטביה,Latvia
+אסטוניה,Estonia
+מצרים,Egypt
+מרוקו,Morocco
+אתיופיה,Ethiopia
+דרום אפריקה,South Africa
+איחוד האמירויות,United Arab Emirates
+תאילנד,Thailand
+וייטנאם,Vietnam
+יפן,Japan
+סין,China
+דרום קוריאה,South Korea
+סינגפור,Singapore
+הפיליפינים,Philippines
+נפאל,Nepal
+אוסטרליה,Australia
+ניו זילנד,New Zealand

@@ -1,0 +1,18 @@
+[project]
+name = "golempii-examples"
+version = "2.0.0"
+description = "Usage examples for the GolemPII Hebrew PII detection models"
+requires-python = ">=3.12"
+dependencies = [
+    "torch==2.15.0",
+    "transformers==5.22.1",
+]
+
+[[tool.uv.index]]
+name = "pypi"
+url = "https://pypi.org/simple"
+default = true
+
+[tool.uv]
+package = false
+exclude-newer = "2026-11-05T00:00:00Z"

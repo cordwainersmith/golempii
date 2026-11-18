@@ -1,0 +1,105 @@
+ירושלים,Jerusalem
+תל אביב,Tel Aviv
+תל אביב-יפו,Tel Aviv-Yafo
+חיפה,Haifa
+ראשון לציון,Rishon LeZion
+פתח תקווה,Petah Tikva
+אשדוד,Ashdod
+נתניה,Netanya
+באר שבע,Beer Sheva
+בני ברק,Bnei Brak
+חולון,Holon
+רמת גן,Ramat Gan
+אשקלון,Ashkelon
+רחובות,Rehovot
+בת ים,Bat Yam
+בית שמש,Beit Shemesh
+כפר סבא,Kfar Saba
+הרצליה,Herzliya
+חדרה,Hadera
+מודיעין,Modiin
+מודיעין-מכבים-רעות,Modiin-Maccabim-Reut
+לוד,Lod
+רמלה,Ramla
+נצרת,Nazareth
+נצרת עילית,Nof HaGalil
+עכו,Acre
+רעננה,Raanana
+הוד השרון,Hod HaSharon
+רמת השרון,Ramat HaSharon
+גבעתיים,Givatayim
+קריית גת,Kiryat Gat
+קריית אתא,Kiryat Ata
+קריית ביאליק,Kiryat Bialik
+קריית מוצקין,Kiryat Motzkin
+קריית ים,Kiryat Yam
+קריית שמונה,Kiryat Shmona
+קריית אונו,Kiryat Ono
+קריית מלאכי,Kiryat Malachi
+נס ציונה,Ness Ziona
+יבנה,Yavne
+אילת,Eilat
+טבריה,Tiberias
+צפת,Safed
+עפולה,Afula
+נהריה,Nahariya
+כרמיאל,Karmiel
+דימונה,Dimona
+אופקים,Ofakim
+נתיבות,Netivot
+שדרות,Sderot
+ערד,Arad
+מגדל העמק,Migdal HaEmek
+יקנעם,Yokneam
+טירת כרמל,Tirat Carmel
+נשר,Nesher
+אור יהודה,Or Yehuda
+אור עקיבא,Or Akiva
+קיסריה,Caesarea
+זכרון יעקב,Zichron Yaakov
+בנימינה,Binyamina
+פרדס חנה,Pardes Hanna
+גדרה,Gedera
+מזכרת בתיה,Mazkeret Batya
+שוהם,Shoham
+אלעד,Elad
+מעלה אדומים,Maale Adumim
+אריאל,Ariel
+מבשרת ציון,Mevaseret Zion
+גבעת שמואל,Givat Shmuel
+יהוד,Yehud
+סביון,Savyon
+כפר יונה,Kfar Yona
+טירה,Tira
+טייבה,Taibe
+אום אל-פחם,Umm al-Fahm
+סחנין,Sakhnin
+שפרעם,Shefa-Amr
+באקה אל-גרבייה,Baqa al-Gharbiyye
+רהט,Rahat
+תל שבע,Tel Sheva
+כפר קאסם,Kafr Qasim
+כפר קרע,Kafr Qara
+עראבה,Arraba
+מגדל,Migdal
+בית שאן,Beit Shean
+קצרין,Katzrin
+מעלות-תרשיחא,Maalot-Tarshiha
+שלומי,Shlomi
+ראש העין,Rosh HaAyin
+גן יבנה,Gan Yavne
+באר יעקב,Be'er Ya'akov
+להבים,Lehavim
+עומר,Omer
+מיתר,Meitar
+כפר ורדים,Kfar Vradim
+אבן יהודה,Even Yehuda
+קדימה-צורן,Kadima-Zoran
+אורנית,Oranit
+אלפי מנשה,Alfei Menashe
+מצפה רמון,Mitzpe Ramon
+ירוחם,Yeruham
+ערערה,Arara
+חצור הגלילית,Hatzor HaGlilit
+בית דגן,Beit Dagan
+גני תקווה,Ganei Tikva

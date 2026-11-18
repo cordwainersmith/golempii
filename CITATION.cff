@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite it as below."
+type: software
+title: "GolemPII v2 base: personal information detection for Hebrew text"
+authors:
+  - family-names: Baba
+    given-names: Liran
+    website: "https://liranbaba.dev"
+version: "2.0"
+date-released: 2026-11-13
+license: MIT
+url: "https://huggingface.co/CordwainerSmith/GolemPII-v2-base"
+repository-artifact: "https://huggingface.co/CordwainerSmith/GolemPII-v2-base"
+keywords:
+  - PII
+  - privacy
+  - named entity recognition
+  - Hebrew

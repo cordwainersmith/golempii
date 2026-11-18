@@ -1,0 +1,47 @@
+name: Missed or wrong detection
+description: The model missed personal information, or tagged something that is not personal information.
+title: "[detection] "
+labels: ["detection"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Use synthetic text only.** Never paste real personal data: invent names, numbers and addresses that look like the real thing.
+  - type: dropdown
+    id: model
+    attributes:
+      label: Model
+      options:
+        - GolemPII-v2-base
+        - GolemPII-v2-small
+        - GolemPII-v2-tiny
+    validations:
+      required: true
+  - type: textarea
+    id: text
+    attributes:
+      label: Input text
+      description: The full text you ran the model on (synthetic only).
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: got
+    attributes:
+      label: What the model returned
+      description: The spans and labels, for example the output of examples/quickstart.py.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+      description: Which spans should have been found, with which label, or which span should not have been tagged.
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: transformers and torch versions
+      placeholder: transformers 5.22.1, torch 2.15.0

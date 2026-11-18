@@ -1,0 +1,27 @@
+[project]
+name = "golempii"
+version = "0.1.0"
+description = "Scoring code for the GolemPII Hebrew PII models"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets==5.1.0",
+    "httpx==0.28.1",
+    "torch==2.15.0",
+    "transformers==5.22.1",
+]
+
+[[tool.uv.index]]
+name = "pypi"
+url = "https://pypi.org/simple"
+default = true
+
+[dependency-groups]
+dev = [
+    "pytest==9.2.0",
+]
+
+[tool.uv]
+exclude-newer = "2026-11-05T00:00:00Z"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
